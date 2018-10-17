@@ -30,6 +30,7 @@ After creation, your project should look like this:
 ```
 my-app/
   README.md
+  Header.jpg
   node_modules/
   package.json
   public/
